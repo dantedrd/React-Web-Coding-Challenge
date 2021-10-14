@@ -1,0 +1,16 @@
+
+.logo {
+    width: 13%;
+    margin-left: 3%;
+}
+
+.title{
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    font-weight: 900;
+    line-height: -10.8;
+    font-size: 185%;
+}
+
+.cardTItle{
+    border: none;
+}
